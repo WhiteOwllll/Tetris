@@ -1,0 +1,7 @@
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\bin\Debug\Tetris on C charp.exe.config
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\bin\Debug\Tetris on C charp.exe
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\bin\Debug\Tetris on C charp.pdb
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\obj\Debug\Tetris on C charp.csprojAssemblyReference.cache
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\obj\Debug\Tetris on C charp.csproj.CoreCompileInputs.cache
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\obj\Debug\Tetris on C charp.exe
+C:\Users\Shiroie\source\repos\Tetris on C charp\Tetris on C charp\obj\Debug\Tetris on C charp.pdb
